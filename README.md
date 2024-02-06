@@ -1,2 +1,2 @@
 # webpage000
-a simple webpage
+a blank webpage
